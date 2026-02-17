@@ -105,4 +105,21 @@ Arquivo:
 
 ```properties
 backend/src/main/resources/application.properties
+```
+## 🚀 Telas da Aplicação
 
+### ✅ Tela de login 
+
+<img width="1366" height="720" alt="Captura de tela 2026-02-17 002917" src="https://github.com/user-attachments/assets/dbf0fd8f-7beb-4007-9477-2061e9e7d857" />
+
+### ✅ Menu inicial
+
+<img width="1366" height="720" alt="Captura de tela 2026-02-17 003003" src="https://github.com/user-attachments/assets/e9a74d86-615b-4d33-9d19-e4a339c85ba6" />
+
+### ✅ Tela inicial de clientes
+
+<img width="1366" height="720" alt="Captura de tela 2026-02-17 003022" src="https://github.com/user-attachments/assets/04a61572-c541-43fe-a20d-a5e550a18153" />
+
+### ✅ Tela de listagem de clientes
+
+<img width="1366" height="720" alt="Captura de tela 2026-02-17 003035" src="https://github.com/user-attachments/assets/ece71d1e-5d80-4c81-8d52-35f36ecc7e11" />
