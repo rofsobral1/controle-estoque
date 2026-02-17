@@ -123,3 +123,11 @@ backend/src/main/resources/application.properties
 ### ✅ Tela de listagem de clientes
 
 <img width="1366" height="720" alt="Captura de tela 2026-02-17 003035" src="https://github.com/user-attachments/assets/ece71d1e-5d80-4c81-8d52-35f36ecc7e11" />
+
+### ✅ Tela de cadastro de clientes
+
+<img width="1366" height="720" alt="Captura de tela 2026-02-17 003103" src="https://github.com/user-attachments/assets/d707aba8-33d4-4b7b-9e0b-d814a5edb9da" />
+
+### ✅ Tela de exclusão de clientes
+
+<img width="1366" height="720" alt="Captura de tela 2026-02-17 003118" src="https://github.com/user-attachments/assets/b0136300-a5ec-4b26-bb32-c5ae37d740a0" />
